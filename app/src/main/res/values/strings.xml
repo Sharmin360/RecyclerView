@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="flower_name">
+        <item>Rose</item>
+        <item>Marigold</item>
+        <item>Sun flower</item>
+        <item>Tulip</item>
+        <item>Cherry blossom</item>
+        <item>Orchid</item>
+        <item>Jasmine</item>
+        <item>Plumeria</item>
+        <item>Lotus</item>
+        <item>Aster</item>
+    </string-array>
+
+    <string-array name="flower_description">
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+        <item>This is very beautiful flower</item>
+    </string-array>
+</resources>
